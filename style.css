@@ -1,0 +1,12 @@
+.display {
+    margin: 0 auto;
+    width: 80%;
+    
+    #info {
+        text-align: right;
+    }
+}
+tr {
+    padding: 10px;
+    border: 1px solid black;
+}
